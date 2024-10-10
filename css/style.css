@@ -14,7 +14,7 @@ body {
 }
 
 .layout_padding2-top {
-  padding-top: 45px;
+  margin: 4em 0 4em 0;
 }
 
 .layout_padding2-bottom {
@@ -571,6 +571,9 @@ a:focus {
   background-color: transparent;
   color: #0355cc;
 }
+.client_section{
+  margin-top: 5em;
+}
 
 .client_section .heading_container {
   -webkit-box-align: center;
@@ -662,7 +665,7 @@ a:focus {
   padding-left: 25px;
   background-color: #ffffff;
   outline: none;
-  color: #ffffff;
+  color: #000000;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
